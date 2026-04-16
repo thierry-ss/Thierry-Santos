@@ -2,8 +2,8 @@
 
 ### 👨‍🏫 Sobre Mim
 - 🎓 Sou aluno do curso de **Desenvolvimento de Sistemas** na instituição **Etec Jardim Ângela**.
-- 💡 Atualmente estou focado em aprender **Linguagens de Programação** e **Sobre Computadores**.
-- 🎯 Meu objetivo é me tornar um desenvolvedor **Full-Stack**.
+- 💡 Atualmente estou focado em aprender **Linguagens de Programação**.
+- 🎯 Meu objetivo é me tornar um desenvolvedor **Backend**.
 - 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
 
 ---
@@ -18,6 +18,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
 ---
@@ -25,13 +26,12 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ### 📂 Meus Principais Projetos
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [Nome do Projeto 1](link-para-o-repositorio) | Breve descrição do que o sistema faz. | HTML, CSS, JS |
-| [Nome do Projeto 2](link-para-o-repositorio) | Sistema de cadastro feito em aula. | PHP, MySQL |
+| thierry-ss/thierry-1dsb(https://github.com/thierry-ss/thierry-1dsb.git) | teste para ver como o github funciona | HTML, CSS |
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thierry-ss]&show_icons=true&theme=dracula)
 
 ---
 
