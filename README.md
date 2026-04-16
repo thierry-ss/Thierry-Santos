@@ -31,7 +31,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thierry-ss]&show_icons=true&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thierry-ss&bg_color=000000&color=ffffff&line=ffffff&point=403c3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
